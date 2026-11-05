@@ -7,9 +7,9 @@ C:\Users\elvix\Documents\Lab02-Konovalov\obj\Debug\net10.0\Lab02-Konovalov.Gener
 C:\Users\elvix\Documents\Lab02-Konovalov\obj\Debug\net10.0\Lab02-Konovalov.AssemblyInfoInputs.cache
 C:\Users\elvix\Documents\Lab02-Konovalov\obj\Debug\net10.0\Lab02-Konovalov.AssemblyInfo.cs
 C:\Users\elvix\Documents\Lab02-Konovalov\obj\Debug\net10.0\Lab02-Konovalov.csproj.CoreCompileInputs.cache
+C:\Users\elvix\Documents\Lab02-Konovalov\obj\Debug\net10.0\Lab02-Konovalov.sourcelink.json
 C:\Users\elvix\Documents\Lab02-Konovalov\obj\Debug\net10.0\Lab02-Konovalov.dll
 C:\Users\elvix\Documents\Lab02-Konovalov\obj\Debug\net10.0\refint\Lab02-Konovalov.dll
 C:\Users\elvix\Documents\Lab02-Konovalov\obj\Debug\net10.0\Lab02-Konovalov.pdb
 C:\Users\elvix\Documents\Lab02-Konovalov\obj\Debug\net10.0\Lab02-Konovalov.genruntimeconfig.cache
 C:\Users\elvix\Documents\Lab02-Konovalov\obj\Debug\net10.0\ref\Lab02-Konovalov.dll
-C:\Users\elvix\Documents\Lab02-Konovalov\obj\Debug\net10.0\Lab02-Konovalov.sourcelink.json
